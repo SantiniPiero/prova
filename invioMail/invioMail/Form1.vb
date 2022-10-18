@@ -15,7 +15,7 @@ Public Class Form1
             'SmtpServer.Credentials = New Net.NetworkCredential("piero.santini@libero.it", "123Stella!")
             SmtpServer.EnableSsl = True
             SmtpServer.Credentials = New Net.NetworkCredential("psantini@siconsulting.it", "Sicons12072021")
-            SmtpServer.Port = 587  '<--------- PORTA PER ARUBA
+            SmtpServer.Port = 587  '<--------- PORTA PER ARUBA___
 
 
             'mail.From = New MailAddress("psantini@siconsulting.it")
