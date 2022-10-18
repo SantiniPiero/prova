@@ -1,0 +1,17 @@
+C:\app\invioMail\invioMail\bin\Release\net6.0-windows\invioMail.exe
+C:\app\invioMail\invioMail\bin\Release\net6.0-windows\invioMail.deps.json
+C:\app\invioMail\invioMail\bin\Release\net6.0-windows\invioMail.runtimeconfig.json
+C:\app\invioMail\invioMail\bin\Release\net6.0-windows\invioMail.dll
+C:\app\invioMail\invioMail\bin\Release\net6.0-windows\invioMail.pdb
+C:\app\invioMail\invioMail\obj\Release\net6.0-windows\invioMail.vbproj.AssemblyReference.cache
+C:\app\invioMail\invioMail\obj\Release\net6.0-windows\invioMail.Form1.resources
+C:\app\invioMail\invioMail\obj\Release\net6.0-windows\invioMail.vbproj.GenerateResource.cache
+C:\app\invioMail\invioMail\obj\Release\net6.0-windows\invioMail.GeneratedMSBuildEditorConfig.editorconfig
+C:\app\invioMail\invioMail\obj\Release\net6.0-windows\invioMail.AssemblyInfoInputs.cache
+C:\app\invioMail\invioMail\obj\Release\net6.0-windows\invioMail.AssemblyInfo.vb
+C:\app\invioMail\invioMail\obj\Release\net6.0-windows\invioMail.vbproj.CoreCompileInputs.cache
+C:\app\invioMail\invioMail\obj\Release\net6.0-windows\invioMail.dll
+C:\app\invioMail\invioMail\obj\Release\net6.0-windows\refint\invioMail.dll
+C:\app\invioMail\invioMail\obj\Release\net6.0-windows\invioMail.pdb
+C:\app\invioMail\invioMail\obj\Release\net6.0-windows\invioMail.genruntimeconfig.cache
+C:\app\invioMail\invioMail\obj\Release\net6.0-windows\ref\invioMail.dll
